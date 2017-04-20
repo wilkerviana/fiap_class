@@ -3,10 +3,9 @@ package br.com.fiap.casting;
 import br.com.fiap.casting.Produto;
 
 public class Livro extends Produto{
-  private String autor;
-  private String titulo;
-  private String isbn;
+  private String autor,titulo,isbn;
 
+// Setters
   public void setAutor(String autor){
     this.autor = autor;
   }
@@ -16,7 +15,7 @@ public class Livro extends Produto{
   public void setIsbn(String isbn){
     this.isbn = isbn;
   }
-
+// Getters
   public String getAutor(){
     return autor;
   }
