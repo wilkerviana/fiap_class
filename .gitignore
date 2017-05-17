@@ -1,3 +1,8 @@
+#File default mac OS
 .DS_Store
 
+#Package Java
 br/com/fiap
+
+#Files Java compiled
+.class

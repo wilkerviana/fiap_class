@@ -1,0 +1,2 @@
+// Construtor não tem retorno e tem o nome da classe, serve para alocar um objeto na memória e iniciar uma rotina
+// + public  - private # protected ~ default
