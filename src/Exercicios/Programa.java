@@ -1,5 +1,4 @@
 package br.com.fiap.exercicios;
-import javax.swing.JOptionPane;
 
 import br.com.fiap.exercicios.Veiculo;
 
